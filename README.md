@@ -1,1 +1,1 @@
- WeatherForcasting
+ WeatherForcasting Using logistic regression 
